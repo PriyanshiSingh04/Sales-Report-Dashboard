@@ -29,7 +29,7 @@ This Power BI dashboard provides insights into sales performance, revenue, profi
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard]("C:\Users\Priyanshi\OneDrive\Pictures\Screenshots\dashboard.png.png")
 
 ## Insights
 
